@@ -6,7 +6,7 @@ Every project needs a shelf of ready answers. product and engineering is one of 
 
 ## Images
 
-[![forecastie](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![forecastie](images/preview.png)](https://github.com/Swift-Tech-Co/forecastie)
 
 ## Features
 * Simple design
@@ -22,7 +22,6 @@ Every project needs a shelf of ready answers. product and engineering is one of 
 
 ## Demo
 <img src='gifs/gif_1.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
-
 
 ## Contribution
 If you have any ideas or issues, don't hesitate to make contact via the Issues page. Every contribution is welcome. See [Contributing](https://github.com/martykan/forecastie/blob/master/CONTRIBUTING.md) for further information.
@@ -43,6 +42,14 @@ published by the Free Software Foundation, either version 3 of the License, or
 The weather data is provided by [OpenWeatherMap](https://openweathermap.org/), under the <a href='http://creativecommons.org/licenses/by-sa/2.0/'>Creative Commons licence</a>.
 
 Icons are <a href='https://erikflowers.github.io/weather-icons/'>Weather Icons</a>, by <a href='http://www.twitter.com/artill'>Lukas Bischoff</a> and <a href='http://www.twitter.com/Erik_UX'>Erik Flowers</a>, under the <a href='http://scripts.sil.org/OFL'>SIL OFL 1.1</a> license.
+
+## Sources
+
+Compiled and maintained from upstream [martykan/forecastie](https://github.com/martykan/forecastie) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
